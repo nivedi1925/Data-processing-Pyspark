@@ -1,0 +1,1 @@
+The intention of this work was to become familiar with programming in a distributed environment for large datasets. It provided a good understanding of distributed systems, distributed processing, and data partitioning. Databricks Cloud was used for this purpose.
